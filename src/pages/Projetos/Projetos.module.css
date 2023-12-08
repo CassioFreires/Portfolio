@@ -1,0 +1,33 @@
+.projetos {
+    width: 90%;
+    margin-top: 70px;
+    margin-bottom: 30px;
+}
+
+.projetos h2 {
+    text-align: center;
+    color: var(--primary);
+    margin-top: 18px;
+}
+
+.lista {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem;
+    margin-block: 3rem;
+}
+
+@media (max-width: 768px) {
+    .projetos {
+        margin-bottom: 18px;
+    }
+
+    .lista {
+        display: flex;
+        flex-direction: column;
+        padding-block: 28px;
+    }
+}

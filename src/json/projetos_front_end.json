@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Web finans",
+        "description": "Site de finanças desenvolvido.",
+        "html_url": "https://cassiofreires.github.io/Web-finans/",
+        "language": ["<FaHtml5 />", "FaCss3", "Boostrap"]
+    },
+    {
+        "id": 2,
+        "name": "Clone spotify",
+        "description": "Clone do spotify.",
+        "html_url": "https://cassiofreires.github.io/Spotify-Clone/",
+        "language": ["FaHtml5", "FaCss3", "Boostrap"]
+    },
+    {
+        "id": 3,
+        "name": "Galeria",
+        "description": "Site de galeria de fotos.",
+        "html_url": "https://cassiofreires.github.io/Projeto_galeria/",
+        "language": ["FaHtml5", "Sass"]
+    },
+    {
+        "id": 4,
+        "name": "Mini portfolio",
+        "description": "Nele temos uma breve apresentação, dizendo um pouco sobre quem sou e dos meus conhecimentos em algumas linguagens como o foco no front-end.",
+        "html_url": "https://cassiofreires.github.io/mini_portfolio/",
+        "language": ["FaHtml5", "FaCss3", "FaJs"]
+    },
+    {
+        "id": 5,
+        "name": "Organo react",
+        "description": "Projeto de gerenciamento de equipe, desenvolvido com base do curso da Alura.",
+        "html_url": "https://organo-react-kappa.vercel.app/",
+        "language": ["FaHtml5", "FaCss3", "FaJs", "FaReact"]
+    },
+    {
+        "id": 6,
+        "name": "Palavra Secreta",
+        "description": "Jogo de palavras secretas.",
+        "html_url": "https://secret-word-c6s9iikun-cassiofreires.vercel.app/",
+        "language": ["FaHtml5", "FaCss3", "FaJs", "FaReact"]
+    },
+    {
+        "id": 7,
+        "name": "SouFlix",
+        "description": "Sistema simulando um streaming de video com fins didáticos.",
+        "html_url": "https://sou-flix.vercel.app/",
+        "language": ["FaHtml5", "FaCss3", "FaJs", "FaReact"]
+    }
+]

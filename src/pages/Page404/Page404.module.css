@@ -1,0 +1,24 @@
+.notFound{
+    margin-top: 10rem;
+}
+
+.title {
+    text-align: center;
+    font-size: 15rem; /*80px*/
+    font-weight: bold;
+    color: var(--red);
+}
+.subtitle {
+    text-align: center;
+    font-size: 2rem;
+    color: var(--red);
+}
+
+@media screen and (min-width: 320px) and (max-width: 768px) {
+    .title {
+        font-size: 8rem;
+    }
+    .subtitle {
+        font-size: 1rem;
+    }
+}
