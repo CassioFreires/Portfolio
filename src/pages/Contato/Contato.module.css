@@ -85,6 +85,23 @@
 
 
 /* resposive */
+
+/* 3840px */
+@media (max-width: 3840px) {
+    .section_formulario div button {
+        margin-bottom: 60px;
+    }
+}
+
+/* 1141px */
+@media (max-width: 1141px) {
+    .topo p {
+        margin-bottom: 20px;
+    }
+}
+
+
+/* 768px */
 @media (max-width: 768px) {
     .contato {
         display: flex;
